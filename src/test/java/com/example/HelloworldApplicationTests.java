@@ -16,7 +16,7 @@ public class HelloworldApplicationTests {
 	private String testing;
 	@Test
 	public void contextLoads() {
-		System.out.println(testing);
+		System.out.println("TESTING CONFIGSERVER PROPERTY VALUE INJECTED := " +testing);
 	}
 
 }
